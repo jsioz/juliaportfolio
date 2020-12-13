@@ -1,3 +1,43 @@
-baseURL = "http://example.org/"
+baseURL = "localhost:1313"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My Portfolio Website"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+[params]
+    theme_color = "#574CDD"
+    description = "Portfolio of Alexis Collado, UX Designer"
+    description_photo = "portfolio.jpg"
+    favicon = "favicon.png"
+    logo = "logo.png"
+    email = "myemail@gmail.com"
+    facebook = ""
+    twitter = ""
+    dribbble = ""
+    linkedin = "https://www.linkedin.com/in/"
+    medium = ""
+    github = ""
+    googlescholar = "https://scholar.google.com/citations?user=XXXXXXXXXXXXXXXXXXXXX=en"
+
+[params.nav]
+    enable = false
+
+[params.hero]
+    enable = true
+    avatar = "avatar.jpg"
+    subtitle = "J. Seales"
+    hero_right = ["**Currently doing very cool things in Los Angeles, CA**", "Link to relevant thing: [Google](https://www.google.com/)"]
+    resume = "Resume.pdf"
+
+[params.process]
+    enable = true
+    title = "My Process"
+    subtitle = "Full Process Design"
+
+[params.case_studies]
+    enable = true
+    title = "Case Studies"
+    subtitle = "Selected Works"
+
+[params.footer]
+    enable = true

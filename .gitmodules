@@ -1,3 +1,6 @@
 [submodule "quickstart/themes/hugo-resume"]
 	path = quickstart/themes/hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume
+[submodule "quickstart/themes/hugo-lodi-theme"]
+	path = quickstart/themes/hugo-lodi-theme
+	url = https://github.com/xaviablaza/hugo-lodi-theme
