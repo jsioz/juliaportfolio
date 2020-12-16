@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "www.jseales.com"
 languageCode = "en-us"
 title = "My Portfolio Website"
 theme = "hugo-lodi-theme"
