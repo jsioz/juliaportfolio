@@ -26,7 +26,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     avatar = "avatar.jpg"
     subtitle = "J. Seales"
-    hero_right = ["**Currently doing very cool things in Los Angeles, CA**", "Link to relevant thing: [Google](https://www.google.com/)"]
+    hero_right = ["**Currently doing very cool things in Los Angeles, CA** and many more details or maybe not many more details here", "Link to relevant thing: [Google](https://www.google.com/)"]
     resume = "Resume.pdf"
 
 [params.process]
