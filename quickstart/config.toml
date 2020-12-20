@@ -31,12 +31,12 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params.process]
     enable = true
-    title = "My Process"
-    subtitle = "Full Process Design"
+    title = "About me"
+    subtitle = "Interests/Education/etc."
 
 [params.case_studies]
     enable = true
-    title = "Case Studies"
+    title = "Projects"
     subtitle = "Selected Works"
 
 [params.footer]
